@@ -1,3 +1,4 @@
+![banner](https://as1.ftcdn.net/v2/jpg/03/08/70/90/1000_F_308709010_gEjxbUaMH4HpMJXrmLTdQtw7Oj0m4asb.jpg)
 <h1 align="center">Hi 👋, I'm Chandan S</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
