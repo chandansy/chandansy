@@ -15,10 +15,10 @@ Why not learn the machine learning and deep learning to become a data scientist 
 ---
 
 ### 🔭 Projects
+Most of the projects currently in my repository are part of my learning curve, but I have many exciting ideas that I'm eager to start working on once I have comfortably mastered the necessary skills.
 
-For some time, I have been working on projects that are close to my heart and that come out of my head during my spare time:
-- [Gemu](), v1 of a social network application for people interested in e-sport and video games developed in Flutter linked to a Firebase server 🔜 Why not have a version 2, case to follow...
-- [My youkounkoun](), an application made from scratch which is meant to be an application with a huge variety of basics and complex features very useful when creating a new application. Why start from scratch every time? The front-end application is developed with Flutter and the back-end will be developed in Node.js link to MySQL database.
+- [Insurance Premium Prediction](https://github.com/chandansy/Insurance-premium-prediction), It is machine learning application which can predict the insurance premium of a person using some of the data points.
+- [Try it out here](https://insurance-premium-prediction-rx8c.onrender.com)
 
 Hopefully in the future, many other projects straight out of my imagination! 🤔
 
@@ -27,9 +27,10 @@ Hopefully in the future, many other projects straight out of my imagination! �
 ### 💭 Skills
 
 A small summary of my skills at the moment:
-- Code: Python,Numpy,Pandas,Sklearn,Huggingface
 
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="background-color: #606060;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 [![Qt](https://skillicons.dev/icons?i=qt)](https://www.qt.io/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/fr/)
 [![Postgres](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
@@ -38,10 +39,11 @@ A small summary of my skills at the moment:
 - CI/CD: GitHub,Dockers
 
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/chandansy)
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/chandansy)
 
 
 - Tools: Postman,Airflow,Excel,PowerBi
+
 
 [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
 
