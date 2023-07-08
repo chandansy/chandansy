@@ -1,5 +1,7 @@
 <p align="center">
-<a href="https://github.com/JurojinKun?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&height=30&lines=%F0%9F%8C%B1+Young+Data+enthusiast+in+the+AI+world+%F0%9F%8C%B1;%F0%9F%8C%B1+Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" /></a>
+  
+<a href="https://github.com/chandansy/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&vCenter=true&width=600&lines=%F0%9F%8C%B1Young+Data+Science+Enthusiast+in+the+world+of+AI%F0%9F%8C%B1;%F0%9F%8C%B1Always+Learning+new+things%F0%9F%8C%B1" alt="Typing SVG" /></a>
+  
 </p>
 
 [<img align="right" alt="Chill gif" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="360" height="190" />](https://github.com/chandansy?tab=repositories)
