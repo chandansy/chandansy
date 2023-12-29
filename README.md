@@ -1,18 +1,18 @@
 <p align="center">
   
-<a href="https://github.com/chandansy/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&vCenter=true&width=600&lines=%F0%9F%8C%B1Young+Data+Science+Enthusiast+in+the+world+of+AI%F0%9F%8C%B1;%F0%9F%8C%B1Always+Learning+new+things%F0%9F%8C%B1" alt="Typing SVG" /></a>
-  
+<a href="https://github.com/chandansy/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&random=false&width=435&lines=%F0%9F%8C%B1Young+Engineer+trying+to+learn+and+build%F0%9F%8C%B1;%F0%9F%A7%91%F0%9F%8F%BC%E2%80%8D%F0%9F%94%A7Tinkering+around+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 </p>
 
 [<img align="right" alt="Chill gif" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="360" height="190" />](https://github.com/chandansy?tab=repositories)
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am a 23 years old engineer who wants to get started in the world of AI, image processing and computer vision. 👨‍🎓
+I am a 23 years old engineer who wants to get started in the world of GEN AI and be prepared for AGI. 👨‍🎓
 
 Since a year, I am a self-taught Data Analyst in the vast world of ChatGPT, AI and Data Science . 📱
 
-Why not learn the machine learning and deep learning to become a data scientist soon? 🧠
+Why not learn the machine learning and deep learning to become a data scientist soon? 
+May be some development too, with Gen AI around you never know 🧠
 
 ---
 
