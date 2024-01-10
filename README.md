@@ -9,10 +9,13 @@
 
 I am a 23 years old engineer who wants to get started in the world of GEN AI and be prepared for AGI. 👨‍🎓
 
-Since a year, I am a self-taught Data Analyst in the vast world of ChatGPT, AI and Data Science . 📱
+Since a year, I am exploring  in the vast world of ChatGPT, AI and Data Science and Development. 📱
 
 Why not learn the machine learning and deep learning to become a data scientist soon? 
+
 May be some development too, with Gen AI around you never know 🧠
+
+But I love being an Engineer, tinkering and Building stuff
 
 ---
 
